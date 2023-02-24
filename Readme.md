@@ -1,4 +1,4 @@
-![logo](https://github.com/theadityanandan/theadityanandan/blob/main/ADITYA%20NANDAN.png)
+![logo](https://github.com/theadityanandan/theadityanandan/blob/main/rendering-abstract-futuristic-background-with-glowing-neon-blue-orange-lights.png)
 <h1 align="center">Hi 👋, I'm Aditya Nandan</h1>
 <h3 align="center">A passionate Fullstack Developer from India.</h3>
 
